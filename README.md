@@ -3,6 +3,6 @@
 ### this is tertiary heading
 
 ## This is a list
-*item 1
-*item 2
-*item3
+    * item 1
+    * item 2
+    * item 3
